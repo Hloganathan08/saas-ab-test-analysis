@@ -49,16 +49,15 @@ The 95% CI excludes zero entirely. Results are not attributable to chance.
 
 ---
 
-## Deliverables
 ab_test_project/
-├── ab_test_analysis.ipynb     ← Full analysis notebook (Python)
-├── AB_Test_Decision_Memo.pdf  ← 1-page executive decision memo
+├── ab_test_analysis.ipynb       ← Full analysis notebook (Python)
+├── AB_Test_Decision_Memo.pdf    ← 1-page executive decision memo
 ├── data/
-│   └── experiment_users.csv   ← 5,738 user-level records
+│   └── experiment_users.csv     ← 5,738 user-level records
 └── output/
-├── ab_test_results.png    ← 4-chart dashboard
-├── ab_test_summary.csv    ← Key metrics summary
-└── ab_test_users.csv      ← Processed user data for BI tools
+├── ab_test_results.png      ← 4-chart dashboard
+├── ab_test_summary.csv      ← Key metrics summary
+└── ab_test_users.csv        ← Processed user data for BI tools
 
 ---
 
