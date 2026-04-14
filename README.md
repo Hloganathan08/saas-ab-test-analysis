@@ -48,6 +48,14 @@ The 95% CI excludes zero entirely. Results are not attributable to chance.
 | Cumulative 12-month impact | **$39.2M** |
 
 ---
+## Results Preview
+
+![SaaS Onboarding A/B Test Results Dashboard](output/ab_test_results.png)
+
+*4-chart dashboard showing activation rate comparison, 95% confidence interval, 
+cumulative activation over 28 days, and projected revenue impact*
+
+---
 
 ## Deliverables
 
