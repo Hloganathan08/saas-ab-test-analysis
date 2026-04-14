@@ -1,0 +1,13 @@
+metric,value,unit
+Control Activation Rate,32.1,%
+Treatment Activation Rate,37.77,%
+Absolute Lift,5.67,%
+Relative Lift,17.66,%
+Z-Statistic,4.5022,
+P-Value,7e-06,
+CI Lower (95%),3.21,%
+CI Upper (95%),8.13,%
+Cohen's h,0.119,
+Statistical Power,99.8,%
+Additional Activations/Mo,680.0,users
+Annual Revenue Lift,3265015.0,$
